@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Pet Store</string>
+    <string name="PET_NAME">petname</string>
+    <string name="PET_BREED">breed</string>
+    <string name="fetch_from_database">Fetch from database</string>
+    <string name="delete_all">Delete all</string>
+    <string name="settings">settings</string>
+
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Preference Titles -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Messages Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+
+    <!-- Sync Preferences -->
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string-array name="pet_type">
+        <item>Select Pet Type</item>
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Rodent</item>
+        <item>Snake</item>
+        <item>Fish</item>
+    </string-array>
+    <string-array name="pet_color">
+        <item>Select Pet Color</item>
+        <item>Black</item>
+        <item>Brown</item>
+        <item>White</item>
+        <item>Green</item>
+        <item>Yellow</item>
+    </string-array>
+
+</resources>
